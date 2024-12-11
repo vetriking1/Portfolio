@@ -36,7 +36,11 @@ const Hero = () => {
             </p>
 
             <div className="flex space-x-6">
-              <a href="./vsmresume.pdf" download className="btn-primary">
+              <a
+                href="https://github.com/vetriking1/Portfolio/tree/main/src/components/vsmresume.pdf"
+                download
+                className="btn-primary"
+              >
                 <Download className="w-5 h-5 mr-2" />
                 Download CV
               </a>
