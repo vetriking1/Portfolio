@@ -19,8 +19,8 @@ const Experience = () => {
       icon: <Calendar className="w-5 h-5" />
     },
     {
-      title: "Technical Symposium 2023",
-      description: "Winner in Programming Contest and Champion in Technical Quiz (2024)",
+      title: "Technical Symposium",
+      description: "Winner in Programming Contest (2023) and Winner in Technical Quiz (2024)",
       type: "achievement",
       icon: <Award className="w-5 h-5" />
     },
