@@ -36,7 +36,7 @@ const Hero = () => {
             </p>
 
             <div className="flex space-x-6">
-              <a href="https://github.com/vetriking1/Portfolio/vsmresume.pdf" download target="_blank"  className="btn-primary">
+              <a href="https://vetriking1.github.io/Portfolio/vsmresume.pdf" download target="_blank"  className="btn-primary">
                 <Download className="w-5 h-5 mr-2" />
                 Download CV
               </a>
